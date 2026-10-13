@@ -1,4 +1,4 @@
-# WEEK 16: PROMPT EVALUATION & ETHICS WORKSHOP
+ # WEEK 16: PROMPT EVALUATION & ETHICS WORKSHOP
  
 print("===== WEEK 16: PROMPT EVALUATION & ETHICS =====")
  
@@ -55,4 +55,3 @@ ethics = {
  
 for issue, result in ethics.items():
     print(f"{issue}: {result}")
- 
